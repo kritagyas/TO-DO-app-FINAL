@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+
+    <string name="main_activity_name">All Tasks</string>
+    <string name="add_task_activity_name">Add a New Task</string>
+
+    <!-- Strings for TaskListActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This etaskEntrytask has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Describe your task..&#8230;</string>
+    <string name="priority_string">Set priority level:</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="name_error">Please Enter your name</string>
+    <string name="last_name_error">Please Enter Your Last Name</string>
+    <string name="email_error">Please Enter a Email address</string>
+    <string name="error_invalid_email">Email is not valid Email</string>
+    <string name="password_error">Please Enter a Password</string>
+    <string name="error_invalid_password">Please enter a minimum of 6 characters</string>
+</resources>

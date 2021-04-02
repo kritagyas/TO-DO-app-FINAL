@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.todomvvm"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:5:5-28:19
+12        android:allowBackup="true"
+12-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity android:name="com.example.todomvvm.screens.login.LoginActivity" />
+22-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:12:9-74
+22-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:12:19-62
+23        <activity
+23-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:13:9-19:20
+24            android:name="com.example.todomvvm.screens.splash.SplashActivity"
+24-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:13:19-64
+25            android:theme="@style/StyleTheme" >
+25-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:13:65-98
+26            <intent-filter>
+26-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:14:13-18:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:15:17-69
+27-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:15:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:17:17-77
+29-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:17:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:20:9-22:46
+33            android:name="com.example.todomvvm.screens.addedittask.AddEditTaskActivity"
+33-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:21:13-68
+34            android:label="Add a new Task" />
+34-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:22:13-43
+35        <activity android:name="com.example.todomvvm.screens.tasks.TaskListActivity" />
+35-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:23:9-68
+35-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:23:19-65
+36
+37        <meta-data
+37-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:25:9-27:57
+38            android:name="preloaded_fonts"
+38-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:26:13-43
+39            android:resource="@array/preloaded_fonts" />
+39-->D:\college files\L6 - Semester - 8\Developing Mobile Applications\TodoApp- Kritagya\app\src\main\AndroidManifest.xml:27:13-54
+40
+41        <service
+41-->[androidx.room:room-runtime:2.2.5] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+42            android:name="androidx.room.MultiInstanceInvalidationService"
+42-->[androidx.room:room-runtime:2.2.5] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+43            android:directBootAware="true"
+43-->[androidx.room:room-runtime:2.2.5] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+44            android:exported="false" />
+44-->[androidx.room:room-runtime:2.2.5] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\ff92c23acb3ff63da9830c47d6fbd82e\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+45
+46        <provider
+46-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+47            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+47-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+48            android:authorities="com.example.todomvvm.lifecycle-process"
+48-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+49            android:exported="false"
+49-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+50            android:multiprocess="true" />
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Omen\.gradle\caches\transforms-2\files-2.1\a7777210eeae7ec0839470505116d148\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+51    </application>
+52
+53</manifest>
