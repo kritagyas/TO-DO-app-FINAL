@@ -48,24 +48,24 @@
         "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
-        "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\font\\bungee.xml"
-    },
-    {
         "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
         "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
+        "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\font\\bungee.xml"
     },
     {
         "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg9.jpg.flat",
         "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\drawable\\bg9.jpg"
     },
     {
-        "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundededit.xml.flat",
-        "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\drawable\\roundededit.xml"
-    },
-    {
         "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\drawable_priority_circle.xml.flat",
         "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\drawable\\priority_circle.xml"
+    },
+    {
+        "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundededit.xml.flat",
+        "source": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\src\\main\\res\\drawable\\roundededit.xml"
     },
     {
         "merged": "D:\\college files\\L6 - Semester - 8\\Developing Mobile Applications\\TodoApp- Kritagya\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",

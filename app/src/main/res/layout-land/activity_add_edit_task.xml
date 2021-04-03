@@ -27,7 +27,7 @@
             <!-- TextView and FrameLayout (which contains buttons) for Priority Selection -->
             <EditText
                 android:id="@+id/editTextTaskDescription"
-                android:layout_width="match_parent"
+                android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:gravity="start"
                 android:hint="@string/edit_task_description"
@@ -52,6 +52,7 @@
                 android:layout_marginBottom="8dp"
                 android:text="@string/priority_string"
                 android:textColor="@android:color/primary_text_light" />
+
             <RadioGroup
                 android:id="@+id/radioGroup"
                 android:layout_width="match_parent"
@@ -93,14 +94,15 @@
 
 
             <!-- Add button -->
+            <!-- RadioGroup for visible selection of a priority -->
+
+
             <CalendarView
                 android:id="@+id/calender"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="19dp"
                 android:layout_marginTop="80dp" />
-            <!-- RadioGroup for visible selection of a priority -->
-
 
             <Button
                 android:id="@+id/saveButton"
