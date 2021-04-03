@@ -16,7 +16,7 @@
 -Set Priority to High, Medium or Low <br>
 -Priority are "SORTED" in ascending order with High being no1, Medium no2, Low no3. <br>
 -Calendar to choose date. <br>
--Add new note circle button on bottom right. 
+-Add new note circle button on bottom right. <br>
 ![Add note](https://user-images.githubusercontent.com/50696630/113488413-b3ca6080-94dd-11eb-9810-2d43fc08399e.gif)
 <br>
 
