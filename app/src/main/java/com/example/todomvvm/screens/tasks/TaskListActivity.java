@@ -165,7 +165,7 @@ public class TaskListActivity extends AppCompatActivity implements TaskAdapter.I
     public void handleOpenAlertDialogue(){
         AlertDialog alertDialog= new AlertDialog.Builder(this)
                 .setTitle("Confirmation")
-                .setMessage("Are you sure you want to delete all the tasks?")
+                .setMessage("Are you sure you want to LOG OUT?")
                 .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
